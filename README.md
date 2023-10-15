@@ -1,1 +1,1 @@
-# android_mqtt
+# android_mqtt 用于物联网开发的android平台的软件，通过mqtt协议互通android和esp8266
